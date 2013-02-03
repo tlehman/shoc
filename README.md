@@ -3,3 +3,7 @@ I wrote it while following [jstorimer's tutorial](http://www.jstorimer.com/2012/
 
 # `shoc` stands for SHell On C
 
+# TODO List
+ - Use `execvp(3)` to replace simple echo. (Actually exec processes, not just dummy output)
+ - Fix memory leaks
+ - Make response to SIGTERM ~~more graceful~~ less terrible
