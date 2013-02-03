@@ -1,8 +1,3 @@
-/** shict is a C version of shirt. Shict is a shell 
- *  I wrote to get better at C programming and better 
- *  understand Unix system programming.
- *
- */
 #include <unistd.h>
 #include <stdio.h>
 #include <string.h>
