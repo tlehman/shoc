@@ -1,4 +1,0 @@
-# shoc is a unix shell, implemented in C. I wrote it while following @jstorimer's tutorial where he builds a Ruby-based shell called shirt. This is to get better at programming in C, and also learn how shells work.
-
-# shoc stands for SHell On C
-
